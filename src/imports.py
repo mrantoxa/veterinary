@@ -1,7 +1,7 @@
 # АВТОМАТИЧЕСКАЯ НАСТРОЙКА (не удалять!)
 import sys
 import os
-venv_path = '/Users/anthony/My drive/Work/Webmasteranton/Veterinary/ecovetnadom-growth-analysis/venv/lib/python3.8/site-packages'
+venv_path = ''
 if venv_path not in sys.path:
     sys.path.insert(0, venv_path)
 
